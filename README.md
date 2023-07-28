@@ -39,5 +39,8 @@ Segue o vídeo que apresenta de forma rápida a integração e modernização da
 <p>Neste projeto utilizei os mecanismos aprendidos com as plataformas de treinamento Udemy, Alura, Youtube. No vídeo, demonstro qual é a ideia do aplicativo Saúde Financeira.</p>
 <h3>https://www.youtube.com/watch?v=kV7zCL87gEY</h3>
 Um pouco mais sobre o aplicativo: https://github.com/carlosaugustoemp/saude_financeira_app
-<br/>
 
+<br/><br/>
+<h2>Projeto Saúde Financeira em Ionic back-end em Android (ano 2020)</h2>
+<p>Este foi o primeiro projeto em que estudei Angular e Ioinic. Para o back-end utilizei Android e para o banco de dados foi utilizado SQLite. Desde este estudo a minha ideia é sempre desenvolver um controle financeiro pessoal. Pois é motivante fazer algo que possa usar. Como eu ainda tenho ele instalado em meu celular, gravei um vídeo de demonstração.</p>
+<h3>https://www.youtube.com/watch?v=4k52jnA0RyQ</h3>
