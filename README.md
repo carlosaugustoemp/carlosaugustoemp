@@ -30,6 +30,11 @@ Linguagem ADVPL
 <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
+<h2>Projeto Dataset Protheus</h2>
+<p>Neste projeto realizei estudo de PO-UI (https://po-ui.io). PO-UI é uma biblioteca de componentes baseado em Angular. É um projeto open source que utiliza tecnologias atuais como Angular e Typescript. Para o back-end utilizei o ERP Protheus da Totvs. Como já trabalho com o sistema, o estudo foi focado em integrar o front-end Angular com o Protheus. O Protheus utiliza as linguagens tlpp e ADVPL.</p>
+Segue o vídeo que apresenta de forma rápida a integração e modernização da tela do Protheus.
+https://www.youtube.com/watch?v=T9TEqvV1Ek8
+
 <br/><br/>
 <h2>Projeto Saúde Financeira em Angular e Spring Boot</h2>
 <br/>
