@@ -11,9 +11,8 @@
 ## Produto em que trabalho
 
 <div style="display: inline_block">
-Protheus Totvs - Linguagem ADVPL
+Protheus Totvs - Linguagem ADVPL/tlpp
 </div>
-Linguagem ADVPL
 <br/>
 
 
@@ -31,11 +30,14 @@ Linguagem ADVPL
 </div>
 
 <h2>Projeto Dataset Protheus</h2>
-<p>Neste projeto realizei estudo de PO-UI (https://po-ui.io). PO-UI é uma biblioteca de componentes baseado em Angular. É um projeto open source que utiliza tecnologias atuais como Angular e Typescript. Para o back-end utilizei o ERP Protheus da Totvs. Como já trabalho com o sistema, o estudo foi focado em integrar o front-end Angular com o Protheus. O Protheus utiliza as linguagens tlpp e ADVPL.</p>
+<p>Neste projeto realizei estudo de PO-UI (https://po-ui.io) que um projeto open source que utiliza tecnologias atuais como Angular e Typescript. Para o back-end utilizei o ERP Protheus da Totvs. Como já trabalho com o sistema, o estudo foi focado em integrar o front-end Angular com o Protheus. Ele é desenvolvido nas linguagens Tlpp e ADVPL.</p>
 Segue o vídeo que apresenta de forma rápida a integração e modernização da tela do Protheus.
-https://www.youtube.com/watch?v=T9TEqvV1Ek8
+<h3>https://www.youtube.com/watch?v=T9TEqvV1Ek8
 
 <br/><br/>
 <h2>Projeto Saúde Financeira em Angular e Spring Boot</h2>
+<p>Neste projeto utilizei os mecanismos aprendidos com as plataformas de treinamento Udemy, Alura, Youtube. No vídeo, demonstro qual é a ideia do aplicativo Saúde Financeira.</p>
+<h3>https://www.youtube.com/watch?v=kV7zCL87gEY</h3>
+Um pouco mais sobre o aplicativo: https://github.com/carlosaugustoemp/saude_financeira_app
 <br/>
-https://github.com/carlosaugustoemp/saude_financeira_app
+
