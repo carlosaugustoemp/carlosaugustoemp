@@ -44,3 +44,8 @@ Um pouco mais sobre o aplicativo: https://github.com/carlosaugustoemp/saude_fina
 <h2>Projeto Saúde Financeira em Ionic back-end em Android (ano 2020)</h2>
 <p>Este foi o primeiro projeto em que estudei Angular e Ioinic. Para o back-end utilizei Android e para o banco de dados foi utilizado SQLite. Desde este estudo a minha ideia é sempre desenvolver um controle financeiro pessoal. Pois é motivante fazer algo que possa usar. Como eu ainda tenho ele instalado em meu celular, gravei um vídeo de demonstração.</p>
 <h3>https://www.youtube.com/watch?v=4k52jnA0RyQ</h3>
+
+<br/><br/>
+<h2>Estudo sobre o Smart View Protheus (Objetos de negócio) 2023</h2>
+<p>Um objeto de negócio é uma busca de uma massa de dados para que seja possível tratar com três recursos: tabela dinâmica, visão de dados e relatório. Realizei uma demonstração com dados específicos e fora da realidade de negócio do Protheus para que seja possível publicar no Youtube conforme link abaixo:</p>
+<h3>https://www.youtube.com/watch?v=rLLbXD1Ux5c</h3>
